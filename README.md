@@ -89,14 +89,17 @@ I thrive at the intersection of **data science, software development, and proble
 
 ---
 
-## ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ## 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=AllanOtieno254&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
+[https://github.com/Kelvin-Shilisia/syriatel-churn-classifier.git](https://github.com/Kelvin-Shilisia/breast-cancer-prediction-streamlit-app
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[https://github.com/Kelvin-Shilisia/aviation-risk-analysis.git](https://github.com/Kelvin-Shilisia/aviation-risk-analysis)
+[https://github.com/Mirriam-Tech/Phase_4_Group1_NLP_Project.git](https://github.com/Mirriam-Tech/Phase_4_Group1_NLP_Project)
+https://github.com/OpusDEI-cloud/dsc-phase-2-project-PT11-Grp4)
 ---
 
 ## 📈 Visitor Count  
