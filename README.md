@@ -81,7 +81,8 @@ Here are some of my key projects that showcase my skills:
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Kelvin-Shilisia&theme=algolia&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
