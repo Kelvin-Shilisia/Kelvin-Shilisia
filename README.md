@@ -1,36 +1,118 @@
-# 💫 About Me:
-Hi, I'm a passionate and curious developer with a strong interest in data analysis, front-end development, and turning complex problems into simple, beautiful, and intuitive solutions. I love building meaningful projects, exploring new technologies, and contributing to open-source whenever I can. I'm constantly learning and growing—whether through personal projects, collaborations, or real-world challenges.<br><br>🌱 Currently leveling up my skills in Python, JavaScript, Power BI, and Tableau<br><br>💡 I enjoy working on data-driven projects, dashboards, and clean UI/UX designs<br><br>👯 I’m open to collaborating on community projects, data storytelling, and web apps<br><br>📚 Lifelong learner with a background in tech, design, and social impact <br><br>🚀 Aspiring to make tech more inclusive and impactful, one project at a time<br><br>Let's connect, build, and grow together!💻🚀
+# 💫 About Me  
+Hi there! 👋 I'm **Kelvin Shilisia**, a passionate, results-driven, and endlessly curious **Developer, Data Enthusiast, and Innovator**.  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AllanOtieno254&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AllanOtieno254&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanOtieno254&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I thrive at the intersection of **data science, software development, and problem-solving**, where I turn complex ideas into simple, beautiful, and impactful solutions. My journey is fueled by an unshakable desire to learn, build, and create meaningful technology that makes a difference.  
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/santozkowkey.mtapeli/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/santozkoky/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav) 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Allan Akumu Otieno)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allanotieno2001@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AllanOtieno254&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AllanOtieno254&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💡 I’m not just a developer; I’m a **storyteller with data**, a **builder of user-friendly applications**, and a **lifelong learner** committed to leveraging technology for innovation, inclusion, and impact.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AllanOtieno254&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/+254 740782619) 
+## 🚀 What I’m Currently Up To  
+- 🌱 **Leveling up skills** in Python, JavaScript, Power BI, Tableau, and advanced SQL  
+- 📊 Building **data-driven dashboards & visualization tools** for real-world insights  
+- 🤝 Collaborating on **community projects** in data storytelling, AI, and web development  
+- 📚 Exploring **Machine Learning, MLOps, and DevOps** to bridge data and production-ready solutions  
+- ✨ Contributing to open-source projects and nurturing my passion for **teaching and mentorship**  
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🏆 Career Highlights & Achievements  
+- 🎓 completed a **BSc. in Computer Science at Zetech University** (GPA: 3.80/4.00)  
+- 📌 Led the **Data Science & Analytics Team (Zetech Mangu Campus)**, organizing learning sessions and collaborative projects  
+- 📊 Completed **MySQL, Feature Engineering, and Advanced Data Analysis** courses, applying them in practical projects  
+- 💡 Developed multiple **real-world projects**:  
+  - 📌 **Phase_4_Group1_NLP_Project ** (ML,NLP,Notebook)  
+  - 📌 **dsc-implementing-recommender-systems** (AI,ML,Python)
+  - 📌 **Pneumonia X-Ray Classification APP** (ML,Streamlit,GEN AI,Python)
+  - 📌 **dsc-logistic-regression-in-scikit-learn-lab** (scikit-learn,regression,ml,python)
+  - 📌 **dsc-data-visualization-with-pandas**(Pandas,matplotlib,python)
+  - 📌 **covid-19-data-analytics**(Python,pandas,matplotlib,seaborn)
+  - 📌 **Cancer prediction application** (ML, Predictive Analytics,streamlit)  
+  - 📌 **Web Scraping Projects** using BeautifulSoup & Pandas
+  - 📌 **Home-Inventory-Management-AI-Assistant-using-n8n**(n8n,automation,workflow,AI)  
+- 🧑‍🏫 Served as a **mentor & guest speaker** in schools, empowering students with knowledge on tech, academics, and personal growth  
+
+---
+
+## 💻 Tech Stack & Tools  
+**Programming & Scripting:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+
+**Data Science & Analytics:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) 
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) 
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge) 
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+
+**Databases & Backend:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)  
+
+**Version Control & Collaboration:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge) 
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?logo=githubactions&logoColor=white&style=for-the-badge)
+
+**Other Tools:**  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge) 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)  
+---
+
+## 📊 GitHub Stats & Activity  
+![](https://github-readme-stats.vercel.app/api?username=AllanOtieno254&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=AllanOtieno254&theme=algolia&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanOtieno254&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+---
+
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=AllanOtieno254&theme=algolia&no-frame=false&no-bg=true&margin-w=4)  
+
+---
+
+## ✨ Featured Projects  
+📌 [**Kiswahili Hate Speech Analysis**](https://github.com/AllanOtieno254) – NLP project analyzing toxic content  
+📌 [**Premier League Match Predictor**](https://github.com/AllanOtieno254) – Machine learning for football outcomes  
+📌 [**UK Road Accidents Dashboard**](https://github.com/AllanOtieno254) – Data visualization & storytelling with Excel  
+📌 [**Web Scraping Wikipedia Companies Dataset**](https://github.com/AllanOtieno254) – Python automation for data extraction  
+
+---
+
+## 🌐 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-link)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/santozkoky)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/santozkowkey.mtapeli)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:allanotieno2001@gmail.com)  
+
+---
+
+## ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+## 🔝 Top Contributed Repo  
+![](https://github-contributor-stats.vercel.app/api?username=AllanOtieno254&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+
+---
+
+## 📈 Visitor Count  
+[![](https://visitcount.itsvg.in/api?id=AllanOtieno254&icon=0&color=0)](https://visitcount.itsvg.in)  
+
+---
+
+## 💰 Support My Work  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://buymeacoffee.com/+254740782619)MPESA: 0713900431  
+
+---
+
+✨ *“The best way to predict the future is to build it. I’m on a journey to build impactful solutions, one project at a time.”* 🚀
