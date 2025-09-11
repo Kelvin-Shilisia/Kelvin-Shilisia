@@ -77,13 +77,7 @@ I thrive at the intersection of **data science, software development, and proble
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=AllanOtieno254&theme=algolia&no-frame=false&no-bg=true&margin-w=4)  
 
----
-
-## ✨ Featured Projects  
-📌 [**Kiswahili Hate Speech Analysis**](https://github.com/AllanOtieno254) – NLP project analyzing toxic content  
-📌 [**Premier League Match Predictor**](https://github.com/AllanOtieno254) – Machine learning for football outcomes  
-📌 [**UK Road Accidents Dashboard**](https://github.com/AllanOtieno254) – Data visualization & storytelling with Excel  
-📌 [**Web Scraping Wikipedia Companies Dataset**](https://github.com/AllanOtieno254) – Python automation for data extraction  
+---  
 
 ---
 
