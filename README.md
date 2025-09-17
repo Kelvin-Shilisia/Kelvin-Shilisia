@@ -1,5 +1,5 @@
 # 💫 About Me  
-Hi there! 👋 I'm **Kelvin Shilisia**, a passionate, results-driven, and endlessly curious **Developer, Data Enthusiast, and Innovator**.  
+Hi there! 👋 I'm **Kelvin Shilisia**, a passionate, results-driven, and endlessly curious **Aspiring Machine Learning and AI engineer , Data Enthusiast, and Innovator**.  
 
 I thrive at the intersection of **data science, machine learning, and problem-solving**, where I turn complex ideas into simple, beautiful, and impactful solutions. My journey is fueled by an unshakable desire to learn, build, and create meaningful technology that makes a difference.  
 
