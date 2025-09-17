@@ -1,9 +1,9 @@
 # 💫 About Me  
 Hi there! 👋 I'm **Kelvin Shilisia**, a passionate, results-driven, and endlessly curious **Developer, Data Enthusiast, and Innovator**.  
 
-I thrive at the intersection of **data science, software development, and problem-solving**, where I turn complex ideas into simple, beautiful, and impactful solutions. My journey is fueled by an unshakable desire to learn, build, and create meaningful technology that makes a difference.  
+I thrive at the intersection of **data science, machine learning, and problem-solving**, where I turn complex ideas into simple, beautiful, and impactful solutions. My journey is fueled by an unshakable desire to learn, build, and create meaningful technology that makes a difference.  
 
-💡 I’m not just a developer; I’m a **storyteller with data**, a **builder of user-friendly applications**, and a **lifelong learner** committed to leveraging technology for innovation, inclusion, and impact.  
+💡 I’m not just a data scientist; I’m a **storyteller with data**, a **builder of user-friendly dashboards**, and a **lifelong learner** committed to leveraging technology for innovation, inclusion, and impact.  
 
 ---
 
@@ -17,8 +17,7 @@ I thrive at the intersection of **data science, software development, and proble
 ---
 
 ## 🏆 Career Highlights & Achievements  
-- 🎓 Completed Mathematics and Economics with  IT from.Maseno University.
-- 📌 Led the **Data Science & Analytics Team (Zetech Mangu Campus)**, organizing weekly learning sessions and collaborative projects  
+- 🎓 Completed Mathematics and Economics with  IT from.Maseno University.  
 - 📊 Completed **MySQL, Feature Engineering, and Advanced Data Analysis** courses, applying them to hands-on projects  
 - 💡 Built **real-world projects** including AI apps, dashboards, and automation tools  
 - 🧑‍🏫 Served as a **mentor & guest speaker** in schools, inspiring students about technology, academics, and career growth  
