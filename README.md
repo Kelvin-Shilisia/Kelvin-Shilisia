@@ -17,7 +17,7 @@ I thrive at the intersection of **data science, software development, and proble
 ---
 
 ## 🏆 Career Highlights & Achievements  
-- 🎓 Completed a **BSc. in Computer Science at Zetech University** (GPA: 3.80/4.00)  
+- 🎓 Completed Mathematics and Economics with  IT from.Maseno University.
 - 📌 Led the **Data Science & Analytics Team (Zetech Mangu Campus)**, organizing weekly learning sessions and collaborative projects  
 - 📊 Completed **MySQL, Feature Engineering, and Advanced Data Analysis** courses, applying them to hands-on projects  
 - 💡 Built **real-world projects** including AI apps, dashboards, and automation tools  
