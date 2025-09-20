@@ -1,5 +1,5 @@
 # 💫 About Me  
-Hi there! 👋 I'm **Kelvin Shilisia**, a passionate, results-driven, and endlessly curious **Aspiring Machine Learning and AI engineer , Data Enthusiast, and Innovator**.  
+Hi there! 👋 I'm **Kelvin Shilisia**, a passionate, results-driven, and endlessly curious **Aspiring Machine Learning and AI Engineer , Data Enthusiast, and Innovator**.  
 
 I thrive at the intersection of **data science, machine learning, and problem-solving**, where I turn complex ideas into simple, beautiful, and impactful solutions. My journey is fueled by an unshakable desire to learn, build, and create meaningful technology that makes a difference.  
 
@@ -10,14 +10,14 @@ I thrive at the intersection of **data science, machine learning, and problem-so
 ## 🚀 What I’m Currently Up To  
 - 🌱 **Leveling up skills** in Python, JavaScript, Power BI, Tableau, and advanced SQL  
 - 📊 Building **data-driven dashboards & visualization tools** for real-world insights  
-- 🤝 Collaborating on **community projects** in data storytelling, AI, and web development  
+- 🤝 Collaborating on **community projects** in data storytelling, AI, and Machine Learning  
 - 📚 Exploring **Machine Learning, MLOps, and DevOps** to bridge data and production-ready solutions  
 - ✨ Contributing to open-source projects and mentoring upcoming developers  
 
 ---
 
 ## 🏆 Career Highlights & Achievements  
-- 🎓 Completed Mathematics and Economics with  IT from.Maseno University.  
+- 🎓 Completed Mathematics and Economics with  IT from Maseno University.  
 - 📊 Completed **MySQL, Feature Engineering, and Advanced Data Analysis** courses, applying them to hands-on projects  
 - 💡 Built **real-world projects** including AI apps, dashboards, and automation tools  
 - 🧑‍🏫 Served as a **mentor & guest speaker** in schools, inspiring students about technology, academics, and career growth  
