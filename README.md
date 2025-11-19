@@ -28,13 +28,14 @@ I thrive at the intersection of **data science, machine learning, and problem-so
 Here are some of my key projects that showcase my skills:  
 
 - 📌 [**Phase_4_Group1_NLP_Project**](https://github.com/Mirriam-Tech/Phase_4_Group1_NLP_Project) – NLP model for text classification (ML, NLP, Python Notebooks)  
-- 📌 [**Recommender Systems Implementation**](https://github.com/Kelvin-Shilisia/dsc-implementing-recommender-systems) – Personalized recommendation engine (AI, ML, Python)  
+- 📌 [**Recommender Systems Implementation**](https://github.com/Kelvin-Shilisia/dsc-implementing-recommender-systems) – Personalized recommendation engine (AI, ML, Python)
 - 📌 [**Pneumonia X-Ray Classification App**](https://github.com/Kelvin-Shilisia) – Streamlit app powered by ML & GenAI for healthcare diagnostics  
 - 📌 [**Cancer Prediction Application**](https://github.com/Kelvin-Shilisia/breast-cancer-prediction-streamlit-app) – Predictive analytics app (ML, Streamlit, Python)  
 - 📌 [**Home Inventory AI Assistant**](https://github.com/Kelvin-Shilisia/Home-Inventory-Management-AI-Assistant-using-n8n) – Workflow automation with n8n & AI  
 - 📌 [**COVID-19 Data Analytics**](https://github.com/Kelvin-Shilisia/covid-19-data-analytics) – Data visualization with Pandas, Matplotlib, Seaborn  
 - 📌 [**Aviation Risk Analysis**](https://github.com/Kelvin-Shilisia/aviation-risk-analysis) – Risk modeling and analytics  
-- 📌 [**Web Scraping Projects**](https://github.com/Kelvin-Shilisia) – Automated data extraction using BeautifulSoup & Pandas  
+- 📌 [**Web Scraping Projects**](https://github.com/Kelvin-Shilisia) – Automated data extraction using BeautifulSoup & Pandas
+- 📌 [**Digital-Vigilance-System**](https://github.com/Kelvin-Shilisia/Digital-Vigilance-System-DVS-for-Social-Media-Threat-Detection)) – Digital Vigilance System (DVS) for Social Media Threat Detection (AI, ML< Python and Streamlit.
 
 ---
 
