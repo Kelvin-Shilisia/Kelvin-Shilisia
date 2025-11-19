@@ -35,8 +35,8 @@ Here are some of my key projects that showcase my skills:
 - 📌 [**COVID-19 Data Analytics**](https://github.com/Kelvin-Shilisia/covid-19-data-analytics) – Data visualization with Pandas, Matplotlib, Seaborn  
 - 📌 [**Aviation Risk Analysis**](https://github.com/Kelvin-Shilisia/aviation-risk-analysis) – Risk modeling and analytics  
 - 📌 [**Web Scraping Projects**](https://github.com/Kelvin-Shilisia) – Automated data extraction using BeautifulSoup & Pandas
-- 📌 [**Digital-Vigilance-System**](https://github.com/Kelvin-Shilisia/Digital-Vigilance-System-DVS-for-Social-Media-Threat-Detection) – Digital Vigilance System (DVS) for Social Media Threat Detection (AI, ML< Python and Streamlit)
-- 📌 [**California-Housing**](https://github.com/Kelvin-Shilisia/California-Housing) – California-Housing (AI, ML< Python and Streamlit)
+- 📌 [**Digital-Vigilance-System**](https://github.com/Kelvin-Shilisia/Digital-Vigilance-System-DVS-for-Social-Media-Threat-Detection) – Digital Vigilance System (DVS) for Social Media Threat Detection (AI, ML, Python and Streamlit)
+- 📌 [**California-Housing**](https://github.com/Kelvin-Shilisia/California-Housing) – California-Housing (AI, ML, Python and Streamlit)
 
 ---
 
