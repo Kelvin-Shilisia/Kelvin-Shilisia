@@ -37,6 +37,8 @@ Here are some of my key projects that showcase my skills:
 - 📌 [**Web Scraping Projects**](https://github.com/Kelvin-Shilisia) – Automated data extraction using BeautifulSoup & Pandas
 - 📌 [**Digital-Vigilance-System**](https://github.com/Kelvin-Shilisia/Digital-Vigilance-System-DVS-for-Social-Media-Threat-Detection) – Digital Vigilance System (DVS) for Social Media Threat Detection (AI, ML, Python and Streamlit)
 - 📌 [**California-Housing**](https://github.com/Kelvin-Shilisia/California-Housing) – California-Housing (AI, ML, Python and Streamlit)
+- 📌 [**Intelligent Home Match**](https://github.com/beemtech/phase5_group1_project) – Intelligent Home Match (Analytics, AI, ML, MLOps, Python and Streamlit)
+
 
 ---
 
