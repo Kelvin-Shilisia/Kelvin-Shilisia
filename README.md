@@ -39,6 +39,7 @@ Here are some of my key projects that showcase my skills:
 - 📌 [**California-Housing**](https://github.com/Kelvin-Shilisia/California-Housing) – California-Housing (AI, ML, Python and Streamlit)
 - 📌 [**Intelligent Home Match**](https://github.com/beemtech/phase5_group1_project) – Intelligent Home Match (Analytics, AI, ML, MLOps, Python and Streamlit)
 - 📌 [**Image Classification Model**](https://github.com/Kelvin-Shilisia/Image-Classification-Model-using-the-MNIST-dataset) – Image Classification Model (Analytics, AI, ML, MLOps, Python and Streamlit)
+- 📌 [**Diabetes Readmission Prediction**](https://github.com/Kelvin-Shilisia/Diabetes-Readmission-Prediction) – Diabetes Readmission Prediction (Analytics, AI, ML, MLOps, Python and Streamlit)
 
 
 ---
